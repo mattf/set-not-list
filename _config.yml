@@ -19,8 +19,8 @@ author: a concerned engineer
 description: >
   When dealing with natural language processing and stop words,
   use a set, not a list
-baseurl: "/set-not-list"
-url: "https://mattf.github.io"
+baseurl: ""
+url: "https://setnotlist.org"
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
